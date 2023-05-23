@@ -1,0 +1,26 @@
+{
+  "name": "leetcode-solutions",
+  "author": "Adrian Kiezik",
+  "description": "My solutions to LeetCode problems",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "nodemon -q src/main.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriankiezik/leetcode-solutions.git"
+  },
+  "keywords": [
+    "LeetCode",
+    "Algorithms"
+  ],
+  "bugs": {
+    "url": "https://github.com/adriankiezik/leetcode-solutions/issues"
+  },
+  "homepage": "https://github.com/adriankiezik/leetcode-solutions#readme"
+}
